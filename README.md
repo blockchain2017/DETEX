@@ -1,2 +1,2 @@
 # DETEX
-Repository for DETEX Project 
+Readme info for DETEX Project 
